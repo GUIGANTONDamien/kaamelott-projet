@@ -10,4 +10,7 @@ HTML CSS SCSS Javascript
 
 La team était composée de :
 
-Bénédicte PICHERY Ninon MARAVAL Jean-baptiste JANSSEN Damien GUIGANTON
+Bénédicte PICHERY
+Ninon MARAVAL
+Jean-baptisteJANSSEN
+Damien GUIGANTON
